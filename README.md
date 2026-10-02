@@ -4,4 +4,5 @@ Práctica de la UD2: trabajo en pareja con Git y GitHub.
 - Persona A: Daniel Díaz Campoy
 - Persona B: Mirian Gonzalez Rodríguez
 ## Endpoints disponibles
-- (pendiente)
+- `GET /series` · listado de series
+- `GET /series/{id}` · serie por identificador
