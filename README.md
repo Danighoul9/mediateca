@@ -5,6 +5,8 @@ Práctica de la UD2: trabajo en pareja con Git y GitHub.
 - Persona B: Mirian Gonzalez Rodríguez
 ## Endpoints disponibles
 - `GET /series` · listado de series
-- `GET /series/{id}` · serie por identificador
+- `GET /plataforma/{plataforma}` · serie por identificador
+- `GET /series/{id}` · película por identificador
 - `GET /peliculas` · listado de películas
 - `GET /peliculas/{id}` · película por identificador
+- 
